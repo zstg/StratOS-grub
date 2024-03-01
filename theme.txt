@@ -13,13 +13,6 @@ terminal-width: "100%"
 terminal-height: "100%"
 terminal-border: "0"
 
-# Logo image
-+ image {
-	left = 50%-50
-	top = 50%-50
-    file = "logo.png"
-}
-
 # Show the boot menu
 + boot_menu {
   left = 50%-240
