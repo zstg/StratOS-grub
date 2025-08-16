@@ -6,7 +6,7 @@
 Basically just minor tweaks of Dracula grub that I made to go along with my
 [arch i3 rice](https://github.com/mino29/arch-i3).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./usr/share/grub/themes/StratOS/logo.png)
 
 This can adapt to various resolustions of screens, at least my 1080p screen
 worked just fine.
